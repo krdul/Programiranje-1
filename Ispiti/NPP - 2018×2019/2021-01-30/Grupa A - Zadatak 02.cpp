@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {	
-	int bacanje1, bacanje2, bacanje3, br = 0, uspjesnih = 0, bacanje6, bacanje5, bacanje4;
+	int bacanje1, bacanje2, bacanje3, br = 0, bacanje6, bacanje5, bacanje4;
 	srand(time(0));
 	do {
 		bacanje1 = rand() % 6 + 1;
